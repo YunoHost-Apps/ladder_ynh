@@ -44,7 +44,7 @@ ram.runtime = "20M"
         [resources.sources.main]
         i386.url = "https://github.com/everywall/ladder/releases/download/v0.0.21/ladder_linux_386.tar.gz"
         i386.sha256 = "77b561f4d9302f6a7473de8b6267f909a7e5c1841528e404d1b2363ace876247"
-        amd64.url = "https://github.com/everywall/ladder/releases/download/v0.0.21/ladder_linux_adm64.tar.gz"
+        amd64.url = "https://github.com/everywall/ladder/releases/download/v0.0.21/ladder_linux_amd64.tar.gz"
         amd64.sha256 = "d7c71df5b0df5962e54a6df1796bfdb21dfc7696d4cbd072b95692b00606c44d"
         arm64.url = "https://github.com/everywall/ladder/releases/download/v0.0.21/ladder_linux_arm64.tar.gz"
         arm64.sha256 = "fc512e8aebb2459d13b97daf1d6ec3b1a7dfb32b24a60c5e1e0d2f804219b11a"
