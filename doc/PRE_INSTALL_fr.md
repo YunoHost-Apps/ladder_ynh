@@ -1,1 +1,1 @@
-Ceci est un faux disclaimer à présenter avant l'installation
+Si votre instance est destinée à être accessible publiquement, assurez-vous d'activer l'authentification de base (Basic Auth). Cela empêchera les utilisateurs non autorisés d'utiliser votre proxy. Si vous n'activez pas l'authentification de base, n'importe qui peut utiliser votre proxy pour accéder à du contenu désagréable/illégal. Vous en seriez alors responsable.

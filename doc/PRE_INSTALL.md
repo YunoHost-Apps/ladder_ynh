@@ -1,1 +1,1 @@
-This is a dummy disclaimer to display prior to the install
+If your instance will be publicly accessible, make sure to enable Basic Auth. This will prevent unauthorized users from using your proxy. If you do not enable Basic Auth, anyone can use your proxy to browse nasty/illegal stuff. And you will be responsible for it.

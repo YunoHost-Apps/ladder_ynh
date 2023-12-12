@@ -1,3 +1,5 @@
-Ceci est une fausse doc d'admin pour cette app
+Cette application télécharge un binaire depuis le dépot GitHub de Ladder et l'exécute sous la forme d'un service systemd. Il est rendu accessible grâce à un proxy inverse nginx.
 
-Le dossier d'install de l'app est `__INSTALL_DIR__`
+Le binaire est téélchargé dans le dossier `__INSTALL_DIR__`
+
+L'application utilise le "ruleset" par défaut : https://t.ly/14PSf

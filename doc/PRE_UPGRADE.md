@@ -1,1 +1,1 @@
-This is a dummy disclaimer to display prior to any upgrade
+You are about to upgrade Ladder.
