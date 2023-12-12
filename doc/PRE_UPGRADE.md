@@ -1,1 +1,0 @@
-You are about to upgrade Ladder.

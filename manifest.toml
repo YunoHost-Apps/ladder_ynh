@@ -49,6 +49,7 @@ ram.runtime = "20M"
         arm64.url = "https://github.com/everywall/ladder/releases/download/v0.0.21/ladder_linux_arm64.tar.gz"
         arm64.sha256 = "fc512e8aebb2459d13b97daf1d6ec3b1a7dfb32b24a60c5e1e0d2f804219b11a"
         autoupdate.strategy = "latest_github_tag"
+        in_subdir = false
 
     [resources.system_user]
 

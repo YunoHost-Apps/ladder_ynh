@@ -1,1 +1,0 @@
-The installation was successful. You can find Ladder on `__DOMAIN____PATH__`.
