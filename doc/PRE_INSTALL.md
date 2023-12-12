@@ -1,1 +1,1 @@
-If your instance will be publicly accessible, make sure to enable Basic Auth. This will prevent unauthorized users from using your proxy. If you do not enable Basic Auth, anyone can use your proxy to browse nasty/illegal stuff. And you will be responsible for it.
+It is advised not to set Ladder as publicly available. You should allow access only to logged-in YunoHost users. If you do not enable auth, anyone can use your proxy to browse nasty/illegal stuff. And you will be responsible for it.

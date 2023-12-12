@@ -35,7 +35,7 @@ ram.runtime = "20M"
 
     [install.init_main_permission]
     type = "group"
-    default = "visitors"
+    default = "all_users"
 
     [install.ruleset]
     type = "url"
