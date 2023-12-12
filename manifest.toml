@@ -29,10 +29,6 @@ ram.runtime = "20M"
     [install.domain]
     type = "domain"
 
-    [install.path]
-    type = "path"
-    default = "/ladder"
-
     [install.init_main_permission]
     type = "group"
     default = "all_users"
