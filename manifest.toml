@@ -37,6 +37,14 @@ ram.runtime = "20M"
     type = "group"
     default = "visitors"
 
+    [install.ruleset]
+    type = "url"
+    default = "https://raw.githubusercontent.com/everywall/ladder-rules/main/ruleset.yaml"
+    ask.fr = "URL vers un set de règles"
+    help.fr = "Il est conseillé de garder l'URL par défaut"
+    ask.en = "URL to a ruleset"
+    help.en = "It is advised to keep the default URL"
+
 [resources]
 
     [resources.sources]
