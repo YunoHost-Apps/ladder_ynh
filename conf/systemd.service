@@ -1,5 +1,5 @@
 [Unit]
-Description=Ladder Paywall Remover
+Description=Ladder: Paywall Remover
 After=network.target
 
 [Service]
