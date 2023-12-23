@@ -7,7 +7,7 @@ name = "Ladder"
 description.en = "Bypass paywalls as 12ft.io does"
 description.fr = "Contourner les paywall comme le fait 12ft.io"
 
-version = "0.0.21~ynh1"
+version = "0.0.21~ynh2"
 
 maintainers = ["Gildas-GH"]
 
