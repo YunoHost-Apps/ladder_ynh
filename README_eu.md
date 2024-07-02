@@ -5,7 +5,7 @@ EZ editatu eskuz.
 
 # Ladder YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/ladder.svg)](https://dash.yunohost.org/appci/app/ladder) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/ladder.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/ladder.maintain.svg)
+[![Integrazio maila](https://dash.yunohost.org/integration/ladder.svg)](https://ci-apps.yunohost.org/ci/apps/ladder/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/ladder.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/ladder.maintain.svg)
 
 [![Instalatu Ladder YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=ladder)
 

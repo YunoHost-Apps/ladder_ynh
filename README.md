@@ -5,7 +5,7 @@ It shall NOT be edited by hand.
 
 # Ladder for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/ladder.svg)](https://dash.yunohost.org/appci/app/ladder) ![Working status](https://ci-apps.yunohost.org/ci/badges/ladder.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/ladder.maintain.svg)
+[![Integration level](https://dash.yunohost.org/integration/ladder.svg)](https://ci-apps.yunohost.org/ci/apps/ladder/) ![Working status](https://ci-apps.yunohost.org/ci/badges/ladder.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/ladder.maintain.svg)
 
 [![Install Ladder with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=ladder)
 
