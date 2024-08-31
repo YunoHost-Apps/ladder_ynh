@@ -16,7 +16,8 @@ license = "GPL-3.0-only"
 code = "https://github.com/everywall/ladder"
 
 [integration]
-yunohost = ">= 11.2"
+yunohost = ">= 11.2.18"
+helpers_version = "2.1"
 architectures = ["amd64", "i386", "arm64"]
 multi_instance = true
 
