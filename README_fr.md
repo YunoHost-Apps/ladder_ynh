@@ -22,7 +22,7 @@ Certains sites ne rendent pas leur contenu accessible aux moteurs de recherche, 
 
 Certains sites peuvent afficher des images manquantes ou rencontrer des problèmes de mise en forme. Cela peut être attribué à la dépendance du site à JavaScript ou CSS pour le chargement d'images et de ressources, ce qui présente une limitation lorsqu'il est accédé via ce proxy. Si vous préférez une expérience complète, veuillez envisager d'acheter un abonnement pour le site.
 
-**Version incluse :** 0.0.21~ynh2
+**Version incluse :** 0.0.21~ynh3
 
 ## Captures d’écran
 
