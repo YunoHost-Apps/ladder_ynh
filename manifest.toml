@@ -7,7 +7,7 @@ name = "Ladder"
 description.en = "Bypass paywalls as 12ft.io does"
 description.fr = "Contourner les paywall comme le fait 12ft.io"
 
-version = "0.0.21~ynh2"
+version = "0.0.21~ynh3"
 
 maintainers = ["Gildas-GH"]
 
@@ -19,9 +19,7 @@ code = "https://github.com/everywall/ladder"
 yunohost = ">= 11.2"
 architectures = ["amd64", "i386", "arm64"]
 multi_instance = true
-
 ldap = "not_relevant"
-
 sso = "not_relevant"
 
 disk = "20M"
