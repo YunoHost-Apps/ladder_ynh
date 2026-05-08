@@ -7,7 +7,7 @@ name = "Ladder"
 description.en = "Bypass paywalls as 12ft.io does"
 description.fr = "Contourner les paywall comme le fait 12ft.io"
 
-version = "0.0.22~ynh1"
+version = "0.0.23~ynh1"
 
 maintainers = ["Gildas-GH"]
 
@@ -49,12 +49,12 @@ ram.runtime = "20M"
     [resources.sources]
 
         [resources.sources.main]
-        i386.url = "https://github.com/everywall/ladder/releases/download/v0.0.22/ladder_linux_386.tar.gz"
-        i386.sha256 = "f291f0b7b5316a650282caa5e7b65df762fd15dd620a7a653f555e0b86353db1"
-        amd64.url = "https://github.com/everywall/ladder/releases/download/v0.0.22/ladder_linux_amd64.tar.gz"
-        amd64.sha256 = "f9d6d09fad0159d615d723a8430f0706f316cc76e8080a98a4a9cb79ed6f3ace"
-        arm64.url = "https://github.com/everywall/ladder/releases/download/v0.0.22/ladder_linux_arm64.tar.gz"
-        arm64.sha256 = "ad1c1ae880513eadfdc7f534dd6ca9aa87bec27f642444b1470bab79062353f8"
+        i386.url = "https://github.com/everywall/ladder/releases/download/v0.0.23/ladder_linux_386.tar.gz"
+        i386.sha256 = "fcde7f4ab5849d540e67028c02f93f9ab7b0c1381642c488920fce305ca00a84"
+        amd64.url = "https://github.com/everywall/ladder/releases/download/v0.0.23/ladder_linux_amd64.tar.gz"
+        amd64.sha256 = "48605de5dd2021fe875ff064da02ba1807bf7c2d4e020714e25747931c279dd8"
+        arm64.url = "https://github.com/everywall/ladder/releases/download/v0.0.23/ladder_linux_arm64.tar.gz"
+        arm64.sha256 = "2fe3334ba017ccff4114bfe210895fb12a05dcb1d0c81a7d8e56182adb002858"
         in_subdir = false
         
         autoupdate.strategy = "latest_github_release"
